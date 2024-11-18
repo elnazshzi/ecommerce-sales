@@ -49,8 +49,6 @@ A **Tableau dashboard** accompanies this project, offering:
 - Interactive visualizations of feature trends.
 - Insights into key drivers of transaction amounts.
 
-<img width="1203" alt="tableau_dashboard" src="https://via.placeholder.com/1203x400">
-
 ## 🏆 Results and Insights
 - **Random Forest Model:** Provided the most accurate predictions.
 - **Key Features Identified:**
